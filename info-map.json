@@ -1,0 +1,294 @@
+{
+    "bottle_broken_large": {
+        "placeholder_tokens": [ "<bottle-broken-large>" ],
+        "initializer_tokens": [ "broken", "large" ]
+    },
+    "bottle_broken_small": {
+        "placeholder_tokens": [ "<bottle-broken-small>" ],
+        "initializer_tokens": [ "broken", "small" ]
+    },
+    "bottle_contamination": {
+        "placeholder_tokens": [ "<bottle-contamination>" ],
+        "initializer_tokens": [ "contamination" ]
+    },
+    "cable_bent_wire": {
+        "placeholder_tokens": [ "<cable-bent-wire>" ],
+        "initializer_tokens": [ "bent", "wire" ]
+    },
+    "cable_cable_swap": {
+        "placeholder_tokens": [ "<cable-cable-swap>" ],
+        "initializer_tokens": [ "cable", "swap" ]
+    },
+    "cable_combined": {
+        "placeholder_tokens": [ "<cable-combined>" ],
+        "initializer_tokens": [ "cut", "bent", "poke", "insulation" ]
+    },
+    "cable_cut_inner_insulation": {
+        "placeholder_tokens": [ "<cable-cut-inner-insulation>" ],
+        "initializer_tokens": [ "cut", "inner", "insulation" ]
+    },
+    "cable_cut_outer_insulation": {
+        "placeholder_tokens": [ "<cable-cut-outer-insulation>" ],
+        "initializer_tokens": [ "cut", "outer", "insulation" ]
+    },
+    "cable_missing_cable": {
+        "placeholder_tokens": [ "<cable-missing-cable>" ],
+        "initializer_tokens": [ "missing", "cable" ]
+    },
+    "cable_missing_wire": {
+        "placeholder_tokens": [ "<cable-missing-wire>" ],
+        "initializer_tokens": [ "missing", "wire" ]
+    },
+    "cable_poke_insulation": {
+        "placeholder_tokens": [ "<cable-poke-insulation>" ],
+        "initializer_tokens": [ "poke", "insulation" ]
+    },
+    "capsule_crack": {
+        "placeholder_tokens": [ "<capsule-crack>" ],
+        "initializer_tokens": [ "crack" ]
+    },
+    "capsule_faulty_imprint": {
+        "placeholder_tokens": [ "<capsule-faulty-imprint>" ],
+        "initializer_tokens": [ "faulty", "imprint" ]
+    },
+    "capsule_poke": {
+        "placeholder_tokens": [ "<capsule-poke>" ],
+        "initializer_tokens": [ "poke" ]
+    },
+    "capsule_scratch": {
+        "placeholder_tokens": [ "<capsule-scratch>" ],
+        "initializer_tokens": [ "scratch" ]
+    },
+    "capsule_squeeze": {
+        "placeholder_tokens": [ "<capsule-squeeze>" ],
+        "initializer_tokens": [ "squeeze" ]
+    },
+    "carpet_color": {
+        "placeholder_tokens": [ "<carpet-color>" ],
+        "initializer_tokens": [ "color" ]
+    },
+    "carpet_cut": {
+        "placeholder_tokens": [ "<carpet-cut>" ],
+        "initializer_tokens": [ "cut" ]
+    },
+    "carpet_hole": {
+        "placeholder_tokens": [ "<carpet-hole>" ],
+        "initializer_tokens": [ "hole" ]
+    },
+    "carpet_metal_contamination": {
+        "placeholder_tokens": [ "<carpet-metal-contamination>" ],
+        "initializer_tokens": [ "metal", "contamination" ]
+    },
+    "carpet_thread": {
+        "placeholder_tokens": [ "<carpet-thread>" ],
+        "initializer_tokens": [ "thread" ]
+    },
+    "grid_bent": {
+        "placeholder_tokens": [ "<grid-bent>" ],
+        "initializer_tokens": [ "bent" ]
+    },
+    "grid_broken": {
+        "placeholder_tokens": [ "<grid-broken>" ],
+        "initializer_tokens": [ "broken" ]
+    },
+    "grid_glue": {
+        "placeholder_tokens": [ "<grid-glue>" ],
+        "initializer_tokens": [ "glue" ]
+    },
+    "grid_metal_contamination": {
+        "placeholder_tokens": [ "<grid-metal-contamination>" ],
+        "initializer_tokens": [ "metal", "contamination" ]
+    },
+    "grid_thread": {
+        "placeholder_tokens": [ "<grid-thread>" ],
+        "initializer_tokens": [ "thread" ]
+    },
+    "hazelnut_crack": {
+        "placeholder_tokens": [ "<hazelnut-crack>" ],
+        "initializer_tokens": [ "crack" ]
+    },
+    "hazelnut_cut": {
+        "placeholder_tokens": [ "<hazelnut-cut>" ],
+        "initializer_tokens": [ "cut" ]
+    },
+    "hazelnut_hole": {
+        "placeholder_tokens": [ "<hazelnut-hole>" ],
+        "initializer_tokens": [ "hole" ]
+    },
+    "hazelnut_print": {
+        "placeholder_tokens": [ "<hazelnut-print>" ],
+        "initializer_tokens": [ "print" ]
+    },
+    "leather_color": {
+        "placeholder_tokens": [ "<leather-color>" ],
+        "initializer_tokens": [ "color" ]
+    },
+    "leather_cut": {
+        "placeholder_tokens": [ "<leather-cut>" ],
+        "initializer_tokens": [ "cut" ]
+    },
+    "leather_fold": {
+        "placeholder_tokens": [ "<leather-fold>" ],
+        "initializer_tokens": [ "fold" ]
+    },
+    "leather_glue": {
+        "placeholder_tokens": [ "<leather-glue>" ],
+        "initializer_tokens": [ "glue" ]
+    },
+    "leather_poke": {
+        "placeholder_tokens": [ "<leather-poke>" ],
+        "initializer_tokens": [ "poke" ]
+    },
+    "metal_nut_bent": {
+        "placeholder_tokens": [ "<metal-nut-bent>" ],
+        "initializer_tokens": [ "bent" ]
+    },
+    "metal_nut_color": {
+        "placeholder_tokens": [ "<metal-nut-color>" ],
+        "initializer_tokens": [ "color" ]
+    },
+    "metal_nut_flip": {
+        "placeholder_tokens": [ "<metal-nut-flip>" ],
+        "initializer_tokens": [ "flip" ]
+    },
+    "metal_nut_scratch": {
+        "placeholder_tokens": [ "<metal-nut-scratch>" ],
+        "initializer_tokens": [ "scratch" ]
+    },
+    "pill_color": {
+        "placeholder_tokens": [ "<pill-color>" ],
+        "initializer_tokens": [ "color" ]
+    },
+    "pill_combined": {
+        "placeholder_tokens": [ "<pill-combined>" ],
+        "initializer_tokens": [ "combined" ]
+    },
+    "pill_contamination": {
+        "placeholder_tokens": [ "<pill-contamination>" ],
+        "initializer_tokens": [ "crack", "contamination", "scratch", "imprint" ]
+    },
+    "pill_crack": {
+        "placeholder_tokens": [ "<pill-crack>" ],
+        "initializer_tokens": [ "crack" ]
+    },
+    "pill_faulty_imprint": {
+        "placeholder_tokens": [ "<pill-faulty-imprint>" ],
+        "initializer_tokens": [ "faulty", "imprint" ]
+    },
+    "pill_pill_type": {
+        "placeholder_tokens": [ "<pill-pill-type>" ],
+        "initializer_tokens": [ "pill", "type" ]
+    },
+    "pill_scratch": {
+        "placeholder_tokens": [ "<pill-scratch>" ],
+        "initializer_tokens": [ "scratch" ]
+    },
+    "screw_manipulated_front": {
+        "placeholder_tokens": [ "<screw-manipulated-front>" ],
+        "initializer_tokens": [ "manipulated", "front" ]
+    },
+    "screw_scratch_head": {
+        "placeholder_tokens": [ "<screw-scratch-head>" ],
+        "initializer_tokens": [ "scratch", "head" ]
+    },
+    "screw_scratch_neck": {
+        "placeholder_tokens": [ "<screw-scratch-neck>" ],
+        "initializer_tokens": [ "scratch", "neck" ]
+    },
+    "screw_thread_side": {
+        "placeholder_tokens": [ "<screw-thread-side>" ],
+        "initializer_tokens": [ "thread", "side" ]
+    },
+    "screw_thread_top": {
+        "placeholder_tokens": [ "<screw-thread-top>" ],
+        "initializer_tokens": [ "thread", "top" ]
+    },
+    "tile_crack": {
+        "placeholder_tokens": [ "<tile-crack>" ],
+        "initializer_tokens": [ "crack" ]
+    },
+    "tile_glue_strip": {
+        "placeholder_tokens": [ "<tile-glue-strip>" ],
+        "initializer_tokens": [ "glue", "strip" ]
+    },
+    "tile_gray_stroke": {
+        "placeholder_tokens": [ "<tile-gray-stroke>" ],
+        "initializer_tokens": [ "gray", "stroke" ]
+    },
+    "tile_oil": {
+        "placeholder_tokens": [ "<tile-oil>" ],
+        "initializer_tokens": [ "oil" ]
+    },
+    "tile_rough": {
+        "placeholder_tokens": [ "<tile-rough>" ],
+        "initializer_tokens": [ "rough" ]
+    },
+    "toothbrush_defective": {
+        "placeholder_tokens": [ "<toothbrush-defective>" ],
+        "initializer_tokens": [ "frayed", "bent", "bristle" ]
+    },
+    "transistor_bent_lead": {
+        "placeholder_tokens": [ "<transistor-bent-lead>" ],
+        "initializer_tokens": [ "bent", "lead" ]
+    },
+    "transistor_cut_lead": {
+        "placeholder_tokens": [ "<transistor-cut-lead>" ],
+        "initializer_tokens": [ "cut", "lead" ]
+    },
+    "transistor_damaged_case": {
+        "placeholder_tokens": [ "<transistor-damaged-case>" ],
+        "initializer_tokens": [ "damaged", "case" ]
+    },
+    "transistor_misplaced": {
+        "placeholder_tokens": [ "<transistor-misplaced>" ],
+        "initializer_tokens": [ "misplaced" ]
+    },
+    "wood_color": {
+        "placeholder_tokens": [ "<wood-color>" ],
+        "initializer_tokens": [ "color" ]
+    },
+    "wood_combined": {
+        "placeholder_tokens": [ "<wood-combined>" ],
+        "initializer_tokens": [ "scratch", "hole", "color", "liquid" ]
+    },
+    "wood_hole": {
+        "placeholder_tokens": [ "<wood-hole>" ],
+        "initializer_tokens": [ "hole" ]
+    },
+    "wood_liquid": {
+        "placeholder_tokens": [ "<wood-liquid>" ],
+        "initializer_tokens": [ "liquid" ]
+    },
+    "wood_scratch": {
+        "placeholder_tokens": [ "<wood-scratch>" ],
+        "initializer_tokens": [ "scratch" ]
+    },
+    "zipper_broken_teeth": {
+        "placeholder_tokens": [ "<zipper-broken-teeth>" ],
+        "initializer_tokens": [ "broken", "teeth" ]
+    },
+    "zipper_combined": {
+        "placeholder_tokens": [ "<zipper-combined>" ],
+        "initializer_tokens": [ "broken", "split", "teeth", "fabric" ]
+    },
+    "zipper_fabric_border": {
+        "placeholder_tokens": [ "<zipper-fabric-border>" ],
+        "initializer_tokens": [ "fabric", "border" ]
+    },
+    "zipper_fabric_interior": {
+        "placeholder_tokens": [ "<zipper-fabric-interior>" ],
+        "initializer_tokens": [ "fabric", "interior" ]
+    },
+    "zipper_rough": {
+        "placeholder_tokens": [ "<zipper-rough>" ],
+        "initializer_tokens": [ "rough" ]
+    },
+    "zipper_split_teeth": {
+        "placeholder_tokens": [ "<zipper-split-teeth>" ],
+        "initializer_tokens": [ "split", "teeth" ]
+    },
+    "zipper_squeezed_teeth": {
+        "placeholder_tokens": [ "<zipper-squeezed-teeth>" ],
+        "initializer_tokens": [ "squeezed", "teeth" ]
+    }
+}
